@@ -15,8 +15,9 @@ syntax: glob
 .scala_dependencies
 
 # idea
-.idea
+.idea/
 *.iml
+.idea
 
 # building
 target
